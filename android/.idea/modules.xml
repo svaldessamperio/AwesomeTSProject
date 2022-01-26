@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AwesomeTSProject.iml" filepath="$PROJECT_DIR$/.idea/modules/AwesomeTSProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AwesomeTSProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AwesomeTSProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1417220236/AwesomeTSProject.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1417220236/AwesomeTSProject.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1751825559/AwesomeTSProject.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1751825559/AwesomeTSProject.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/774186386/AwesomeTSProject.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/774186386/AwesomeTSProject.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1060434986/AwesomeTSProject.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1060434986/AwesomeTSProject.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

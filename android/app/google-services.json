@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610033959174",
+    "project_id": "awesomeapp-abedd",
+    "storage_bucket": "awesomeapp-abedd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610033959174:android:1a7a9e1888ec46559cde87",
+        "android_client_info": {
+          "package_name": "com.awesometsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610033959174-u005pp9tasfut8b358fikhaa85i8gdkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKbZmESnwcEeQmCMRkagrQHheOj3EnaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610033959174-u005pp9tasfut8b358fikhaa85i8gdkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
