@@ -31,8 +31,6 @@ export default function App() {
         console.log("Suscrito al Tópico");    
     });
 
-
-
     return () => {
       topicSubscriber;
       foregroundSubscriber();
